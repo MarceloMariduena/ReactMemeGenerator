@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactMemeGenerator/static/css/main.6aacea80.chunk.css",
+    "main.js": "/ReactMemeGenerator/static/js/main.996caf14.chunk.js",
+    "main.js.map": "/ReactMemeGenerator/static/js/main.996caf14.chunk.js.map",
+    "runtime~main.js": "/ReactMemeGenerator/static/js/runtime~main.a824dc95.js",
+    "runtime~main.js.map": "/ReactMemeGenerator/static/js/runtime~main.a824dc95.js.map",
+    "static/js/2.09dbe6a1.chunk.js": "/ReactMemeGenerator/static/js/2.09dbe6a1.chunk.js",
+    "static/js/2.09dbe6a1.chunk.js.map": "/ReactMemeGenerator/static/js/2.09dbe6a1.chunk.js.map",
+    "index.html": "/ReactMemeGenerator/index.html",
+    "precache-manifest.c13c48f32b25a06046a67eadf20a92fb.js": "/ReactMemeGenerator/precache-manifest.c13c48f32b25a06046a67eadf20a92fb.js",
+    "service-worker.js": "/ReactMemeGenerator/service-worker.js",
+    "static/css/main.6aacea80.chunk.css.map": "/ReactMemeGenerator/static/css/main.6aacea80.chunk.css.map",
+    "static/media/trollFace.png": "/ReactMemeGenerator/static/media/trollFace.c81ac51c.png"
+  }
+}
