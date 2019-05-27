@@ -1,0 +1,24 @@
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.memeImage {
+    min-width: 40vh;
+    max-width: 60vh;
+}
+
+.topText {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.bottomText {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}

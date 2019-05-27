@@ -1,8 +1,12 @@
 {
-  "name": "meme-generator",
+  "name": "react-meme-generator",
+  "author": "Marcelo Mariduena",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://MarceloMariduena.github.io/ReactMemeGenerator",
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
@@ -11,6 +15,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
